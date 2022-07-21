@@ -18,7 +18,7 @@ global.APIs = { // API Prefix
   pencarikode: 'https://pencarikode.xyz',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   neoxr: 'https://neoxr-api.herokuapp.com',
-  amel: 'https://melcanz.com',
+  amel: 'https://rexpiwjawaaa.com',
   hardianto: 'https://hardianto.xyz',
   lol: 'https://api.lolhuman.xyz',
   adicug: 'https://api.adiofficial.xyz',
@@ -43,11 +43,11 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.urlnya = "https://www.instagram.com/_sydaa1"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+79832950355'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -57,12 +57,12 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = data.namabot;
-global.author = data.owner;
+global.packname = data.namabot;hamzbot
+global.author = data.owner;hamz
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᴀɢᴜᴢ ꜰᴀᴍɪʟɪᴀ'
+        global.colong2 = 'ʙy hamz ꜰᴀᴍɪʟɪᴀ'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
